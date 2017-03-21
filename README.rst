@@ -100,7 +100,7 @@ There are several configuration options to customize the behavior:
 Changes
 -------
 
-:1.2.1:
+:1.3.0:
 
 - remove BuildError handling since flask is already taking care (glitch in the flask documentation)
 
